@@ -10,7 +10,11 @@ class print {
         String name = Scan.nextLine();
         System.out.println("Hi, " + name + "!");
         System.out.println("pisteeeee");
-        System.out.println("namstech HAHAHA")
+        System.out.println("namstech HAHAHA");
+
+        System.out.println("Enter number: ");
+        int num = Scan.nextInt();
+        System.out.println(num);
     }
 }
 
