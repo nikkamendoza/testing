@@ -9,6 +9,7 @@ class print {
         System.out.println("Enter your name: ");
         String name = Scan.nextLine();
         System.out.println("Hi, " + name + "!");
+        System.out.println("pisteeeee");
     }
 }
 
