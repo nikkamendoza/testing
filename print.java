@@ -13,5 +13,4 @@ class print {
 }
 
 
-//try nyo edit to 
-//hmmmm?
+// try nyo nga mag edit here
