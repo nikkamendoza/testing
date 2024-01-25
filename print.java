@@ -10,6 +10,7 @@ class print {
         String name = Scan.nextLine();
         System.out.println("Hi, " + name + "!");
         System.out.println("pisteeeee");
+        System.out.println("namstech HAHAHA")
     }
 }
 
