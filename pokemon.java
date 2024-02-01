@@ -22,15 +22,4 @@ public class pokemon {
         
     }
 }
-
-
-//hmm hmj shdoshfoshjfihsofhsoei 
-
-
-///xshkjdhskjhkjshfkdjhfkldjs 
-
-// hsjdhksjhfkjshfkjdshflkdshflksdhfsldfsd
-
-// test test test test test 
-
-//panong bawal?
+ // bakettttttt baketttttttttttttt baketttttttttt
