@@ -16,6 +16,7 @@ public class pokemon {
         System.out.println("Testing lang");
         System.out.println("Testing lang");
 
+        System.out.println("Push ulit");
         
 
         
