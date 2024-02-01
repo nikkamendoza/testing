@@ -20,3 +20,7 @@ class print {
 
 
 // try nyo nga mag edit here
+//type type type type hahahhah try trytry try try 
+//namstech namstech nams tech nams tech nams tech nams tech nams tech
+// hmmmm hmmm hmmm hmmm hmmm 
+// hmm hmm hmm di naman nawala 
