@@ -31,3 +31,5 @@ public class pokemon {
 // hsjdhksjhfkjshfkjdshflkdshflksdhfsldfsd
 
 // test test test test test 
+
+//panong bawal?
